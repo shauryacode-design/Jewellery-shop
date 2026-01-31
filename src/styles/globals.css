@@ -76,6 +76,7 @@ body {
 .hero-buttons {
   display: flex;
   gap: 20px;
+  
 }
 
 .hero-buttons button:first-child {
@@ -129,6 +130,10 @@ body {
 }
 
 @media (max-width: 768px) {
+  .hero-section {
+    height: auto;
+    padding: 40px 0;
+  }
   .container {
     flex-direction: column;
     width: 90%;
@@ -153,6 +158,14 @@ body {
 
   .hero-text h3 {
     width: 50%;
+    font-size: 0.9rem;
+  }
+  .hero-buttons button:first-child{
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+  .hero-buttons button:nth-child(2){
+    padding: 8px 16px;
     font-size: 0.9rem;
   }
 }
@@ -537,6 +550,17 @@ body {
   .fourth-right img {
     width: 100%;
     height: auto;
+  }
+  .fourth-bullet {
+    max-height: auto;
+    font-size: 1rem;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 12px;
+  }
+  .fourth-bullet p {
+    font-size: 1rem;
+    align-self: center;
   }
 }
 .fifth-section{
