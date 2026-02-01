@@ -81,16 +81,16 @@ export default function Home() {
                 <p>✔️ 100% certified gold & silver for complete peace of mind.</p>
               </div>
               <div className="third-card">
-                <h1>BIS Hallmarked Jewellery</h1>
-                <p>✔️ 100% certified gold & silver for complete peace of mind.</p>
+                <h1>Exquisite Craftsmanship</h1>
+                <p>✔️ Handcrafted designs by skilled artisans with fine detailing.</p>
               </div>
               <div className="third-card">
-                <h1>BIS Hallmarked Jewellery</h1>
-                <p>✔️ 100% certified gold & silver for complete peace of mind.</p>
+                <h1>Transparent Pricing</h1>
+                <p>✔️ Clear pricing with honest weight, purity, and charges.</p>
               </div>
               <div className="third-card">
-                <h1>BIS Hallmarked Jewellery</h1>
-                <p>✔️ 100% certified gold & silver for complete peace of mind.</p>
+                <h1>Trusted by Generations</h1>
+                <p>✔️ Serving families with trust, quality, and tradition for years.</p>
               </div>
             </div>
             <div className="third-right">
