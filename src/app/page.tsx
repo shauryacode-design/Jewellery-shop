@@ -168,8 +168,7 @@ export default function Home() {
             </div>
 
             <div className="map-container">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443.3515001332453!2d78.04802477535694!3d30.340958774775558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929d976b57665%3A0x3a615a544b5e4cba!2sGajendra%20Sweets%20and%20Dairy%20Products!5e0!3m2!1sen!2sin!4v1769747904545!5m2!1sen!2sin" style={{ border: '0' }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
-
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110204.75443569123!2d77.93473309708199!3d30.325402625617453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929c356c888af%3A0x4c3562c032518799!2sDehradun%2C%20Uttarakhand!5e0!3m2!1sen!2sin!4v1771080805864!5m2!1sen!2sin" style={{ border: '0' }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
               <p className="address">
                 <strong>📍 Abc Jewellers</strong><br />
                 Main Road, Near City Mall<br />
